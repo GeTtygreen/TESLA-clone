@@ -81,4 +81,4 @@ const DownArrow = styled.img`
   overflow-x: hidden;
   animation: animateDown infinite 1.5s;
 `;
-const Buttons = styled.div``;
+const Buttons = styled.div``
